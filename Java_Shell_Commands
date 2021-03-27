@@ -1,0 +1,7 @@
+// dir
+// cd Documents
+// md MyJava
+// cd MyJava
+// set path=%path%;E:\Intellij Idea\bin
+// javac Demo.java
+// java Demo
