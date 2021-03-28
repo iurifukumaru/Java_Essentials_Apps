@@ -2,9 +2,15 @@
 // cd Documents
 // md MyJava
 // cd MyJava
-// set path=%path%;E:\Intellij Idea\bin
+// set path=%path%;E:\Intellij_Idea\bin
 // javac Demo.java
 // java Demo
 // help
+
+// Creating and importing JAR files
+// Jar files contains all compress data of classes and methods
+set path=%path%;E:\Intellij_Idea\bin
+jar cvfm MyGeometry.jar manifest.txt *.class
+
 
 // http://docs.oracle.com/javabase/7/docs/api
